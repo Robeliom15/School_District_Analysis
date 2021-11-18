@@ -4,7 +4,7 @@
 
 ### Purpose
 
-
+The purpose of this project is to find potential academic dishonesty at Thomas High School. I will focus on the reading and math scores of the ninth graders. I will replace the grades with NaN and redo the whole process to find any differences.
 
 ## Results
 
