@@ -35,5 +35,9 @@ Thomas High School does not affect the performance of the high school and it sta
 
 - How does replacing the ninth-grade scores affect the Data
 
+When looking over the data and comparing the different categories I saw that the difference was too small to make a difference. The data I focused on were math and reading scores by grade, scores by school spending, scores by school size, scores by school type. 
+
 ## Summary
+
+The goal of this project was to check if there was any academic dishonesty at Thomas High School. When I removed the ninth-grade math and reading scores I had to redo the whole process again. The results showed that only an insignificant amount changed. While this insignificant change affected many values it did not change the overall look of the data. The school remained the same ranking as a top school. 
 
